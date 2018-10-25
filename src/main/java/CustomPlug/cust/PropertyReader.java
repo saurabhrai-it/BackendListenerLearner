@@ -32,6 +32,7 @@ public class PropertyReader  extends ConfigTestElement implements TestBean, Test
     public void testStarted(String s) {
 
         if (StringUtils.isNotEmpty(getPropFilePath())) {
+            String a ="adf";
 //            try {
 //                Path path = Paths.get(getPropFilePath());
 //                if (!path.isAbsolute())
