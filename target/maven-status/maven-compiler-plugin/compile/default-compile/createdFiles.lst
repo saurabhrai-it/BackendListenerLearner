@@ -1,0 +1,14 @@
+com\learn\listenerPlugin\influxdb\TestStartEndMeasurement$Values.class
+com\learn\listenerPlugin\influxdb\RequestMeasurement.class
+CustomPlug\cust\PropertyReaderBeanInfo.class
+com\learn\listenerPlugin\influxdb\TestStartEndMeasurement$Tags.class
+com\learn\listenerPlugin\influxdb\TestStartEndMeasurement$Fields.class
+com\learn\listenerPlugin\influxdb\VirtualUsersMeasurement$Fields.class
+com\learn\listenerPlugin\influxdb\InfluxDBConfig.class
+com\learn\listenerPlugin\influxdb\RequestMeasurement$Fields.class
+com\learn\listenerPlugin\influxdb\VirtualUsersMeasurement$Tags.class
+com\learn\listenerPlugin\influxdb\TestStartEndMeasurement.class
+com\learn\listenerPlugin\influxdb\VirtualUsersMeasurement.class
+com\learn\listenerPlugin\LearnJMeterInfluxListenerClient.class
+CustomPlug\cust\PropertyReader.class
+com\learn\listenerPlugin\influxdb\RequestMeasurement$Tags.class
